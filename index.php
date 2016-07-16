@@ -1,4 +1,4 @@
 <?php
-echo phpinfo();
-echo "brach";
+$b = 'brach';
+echo $b;
 ?>
