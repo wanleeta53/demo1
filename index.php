@@ -1,4 +1,4 @@
 <?php
 $b = 'brach';
-echo $b;
+echo "==>".$b;
 ?>
