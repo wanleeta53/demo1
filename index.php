@@ -1,4 +1,4 @@
 <?php
-$b = 'brach';
-echo "==>".$b;
+
+echo "Today is " . date("Y/m/d") . "<br>";
 ?>
